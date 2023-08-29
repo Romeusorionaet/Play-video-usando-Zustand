@@ -1,27 +1,28 @@
-# React + TypeScript + Vite
+<h1>Play vídeo usando Zustand</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+<p>Projeto aula pela Rocketseat trilha ignite construido no curso de Redux + Zustand.
+Aprendemos a fazer uso do Redux primeiramente, depois migramos para outro gerecenciamento de estado o Zustand que é baseado no Redux porém é mais fácil de trabalhar.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Realizamos pequenos testes unitários e em breve por conta prória irei realizar a construção da api Play video</p>
 
-## Expanding the ESLint configuration
+![preview](./src/assets/previewPlayvideo-zustand.png)
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<h2>Principais Tecnologias</h2>
 
-- Configure the top-level `parserOptions` property like this:
+- react
+- zustand
+- typescript
+- tailwindcss
+- react-player
+- vite
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+<h2 align='center'> Meus contatos </h2>
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+>Se tiver alguma dúvida, sugestão ou feedback, sinta-se à vontade para entrar em contato:
+
+* [LinkedIn](https://www.linkedin.com/in/romeu-soares-87749a231/)
+
+* romeuindexjs@gmail.com
+
+* WhatsApp: 84 981127596
